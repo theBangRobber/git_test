@@ -1,4 +1,4 @@
 # git_test
 
-tets GitHub repo
+test GitHub repo
 Hello Odin
